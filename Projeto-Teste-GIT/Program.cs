@@ -12,6 +12,8 @@ namespace Projeto_Teste_GIT
              Console.WriteLine("Hello World! Voce digitou :" + frase );
             Console.ReadLine();
 
+            Console.WriteLine("deu ruim");
+
         }
     }
 }
