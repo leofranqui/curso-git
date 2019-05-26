@@ -15,7 +15,7 @@ namespace Projeto_Teste_GIT
             Console.WriteLine("deu ruim");
             Console.WriteLine("como voce esta?");
             Console.WriteLine("como voce esta agora ??");
-
+            Console.WriteLine("finalizando o git");
 
         }
     }
